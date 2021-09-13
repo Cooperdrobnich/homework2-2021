@@ -1,11 +1,11 @@
 body {
     font-family: 'Times New Roman', 'sans-serif';
-    background-color: #000000
+    background-color: #000000;
     color: #FFFFFF;
 }
 
 h1 {
     font-size: 64px;
     padding: 10px;
-    text-align: centered 
+    text-align: center;
 }
