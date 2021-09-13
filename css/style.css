@@ -11,7 +11,7 @@ h1 {
 }
 h2 {
     font-size: 36px;
-    drop-shadow: 4px 4px 2px #808080;
+    text-shadow: 4px 4px 2px #808080;
 
 }
 
@@ -32,6 +32,7 @@ div {
     min-height: 150px;
     padding: 25px 25px 25px 25px;
 }
+
 #red {
     text-align: right;
     background-color: #FF0000;
@@ -43,6 +44,8 @@ background-color: #0000FF;
 }
 #yellow {
 text-align: right;
+color: #000000;
+text-shadow: 4px 2px 4px #c7e2c7;
 background-color: #FFFF00;
 
 }
