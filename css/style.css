@@ -3,3 +3,9 @@ body {
     color: #FFFFFF;
     background-color: #000000;
 }
+
+h1 {
+    font-size: 64px;
+    padding: 10px;
+    text-align: centered 
+}
