@@ -14,6 +14,7 @@ h2 {
     drop-shadow: 4px 4px 2px #808080;
 
 }
+
 p {
     font-size: 24px;
     padding-top: 15px;
@@ -30,4 +31,26 @@ img {
 div {
     min-height: 150px;
     padding: 25px 25px 25px 25px;
+}
+#red {
+    text-align: right;
+    background-color: #FF0000;
+
+}
+#blue {
+text-align: left;
+background-color: #0000FF;
+}
+#yellow {
+text-align: right;
+background-color: #FFFF00;
+
+}
+#green {
+    text-align: left;
+    background-color: #008000;
+}
+footer {
+    text-align: center;
+    padding: 0 10px 10px 0;
 }
