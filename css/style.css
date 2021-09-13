@@ -9,3 +9,8 @@ h1 {
     padding: 10px;
     text-align: center;
 }
+h2 {
+    font-size: 32px;
+    drop-shadow: 4px 4px 2px #808080;
+
+}
