@@ -47,16 +47,22 @@ background-color: #0000FF;
 }
 #yellow {
 text-align: right;
-color: #000000;
-text-shadow: 4px 4px 2px #c7e2c7;
 background-color: #FFFF00;
 
+}
+#yellow p {
+    color:#000000;
+
+}
+#yellow h2 {
+color: #000000;
+text-shadow: 4px 4px 2px #c7e2c7;
 }
 #green {
     text-align: left;
     background-color: #008000;
 }
-footer {
+footer p {
     text-align: center;
     padding-top: 0px;
     padding-right: 10px;
