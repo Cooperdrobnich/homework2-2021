@@ -27,3 +27,7 @@ img {
     object-fit: cover;
     
 }
+div {
+    min-height: 150px;
+    padding: 25px 25px 25px 25px;
+}
